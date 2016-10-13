@@ -1,6 +1,6 @@
 <?php
 //config
-$font_folder = "/usr/share/fonts";
+$font_folder = "/usr/share/fonts/truetype/msttcorefonts";
 
 header("Content-type: image/png");
 
