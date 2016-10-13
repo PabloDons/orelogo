@@ -1,6 +1,6 @@
 <?php
 //config
-$font_folder = "/user/share/fonts";
+$font_folder = "/usr/share/fonts";
 
 header("Content-type: image/png");
 
